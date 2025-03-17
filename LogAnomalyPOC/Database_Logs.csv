@@ -1,0 +1,439 @@
+Log Source,Timestamp,Message,Thread ID,Process ID,User ID,Request ID,Transaction ID,Error Code,Stack Trace,Level
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.001Z,2024-12-16 21:00:00.001 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.002Z,2024-12-16 21:00:00.002 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.003Z,2024-12-16 21:00:00.003 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.004Z,2024-12-16 21:00:00.004 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.005Z,2024-12-16 21:00:00.005 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.006Z,2024-12-16 21:00:00.006 UTC [12346] user@db INFO:  HikariPool-1 - Acquired connection 1,12346,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.007Z,2024-12-16 21:00:00.007 UTC [12347] user@db INFO:  HikariPool-1 - Acquired connection 2,12347,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.008Z,2024-12-16 21:00:00.008 UTC [12348] user@db INFO:  HikariPool-1 - Acquired connection 3,12348,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.009Z,2024-12-16 21:00:00.009 UTC [12349] user@db INFO:  HikariPool-1 - Acquired connection 4,12349,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.010Z,2024-12-16 21:00:00.010 UTC [12350] user@db INFO:  HikariPool-1 - Acquired connection 5,12350,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.011Z,2024-12-16 21:00:00.011 UTC [12351] user@db INFO:  HikariPool-1 - Acquired connection 6,12351,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.012Z,2024-12-16 21:00:00.012 UTC [12352] user@db INFO:  HikariPool-1 - Acquired connection 7,12352,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.013Z,2024-12-16 21:00:00.013 UTC [12353] user@db INFO:  HikariPool-1 - Acquired connection 8,12353,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.014Z,2024-12-16 21:00:00.014 UTC [12354] user@db INFO:  HikariPool-1 - Acquired connection 9,12354,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,LOG: duration: 10.123 ms  statement: SELECT * FROM users WHERE id = 123,12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,LOG: duration: 5.678 ms  statement: UPDATE users SET name = 'John Doe' WHERE id = 123,12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,LOG: duration: 23.456 ms  statement: SELECT * FROM orders WHERE user_id = 123,12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,"LOG: duration: 1.234 ms  statement: INSERT INTO payments (order_id, amount) VALUES (456, 100.00)",12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,LOG: duration: 7.890 ms  statement: SELECT * FROM products WHERE id = 789,12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,LOG: duration: 15.678 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 789,12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,LOG: duration: 3.456 ms  statement: COMMIT,12345,1234,user123,abc123,xyz123,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,LOG: duration: 12.345 ms  statement: SELECT * FROM users WHERE id = 456,12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,LOG: duration: 6.789 ms  statement: UPDATE users SET name = 'Jane Doe' WHERE id = 456,12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,LOG: duration: 24.567 ms  statement: SELECT * FROM orders WHERE user_id = 456,12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,"LOG: duration: 2.345 ms  statement: INSERT INTO payments (order_id, amount) VALUES (789, 50.00)",12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,LOG: duration: 8.901 ms  statement: SELECT * FROM products WHERE id = 101112,12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,LOG: duration: 16.789 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 101112,12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,LOG: duration: 4.567 ms  statement: COMMIT,12345,1234,user456,def456,pqr456,null,null,INFO
+user-db,2024-12-16T21:01:10.000Z,LOG: duration: 13.456 ms  statement: SELECT * FROM users WHERE id = 789,12345,1234,user789,ghi789,stu789,null,null,INFO
+user-db,2024-12-16T21:01:15.000Z,LOG: duration: 7.890 ms  statement: UPDATE users SET name = 'John Smith' WHERE id = 789,12345,1234,user789,ghi789,stu789,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,"[2024-12-16 21:00:00.000 UTC] [12345] user@db LOG: connection to server at ""localhost"", port 5432 established",12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,[2024-12-16 21:00:05.000 UTC] [12345] user@db LOG: statement: SELECT * FROM users WHERE id = 12345,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:10.000Z,[2024-12-16 21:00:10.000 UTC] [12345] user@db LOG: duration: 0.005 ms,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:15.000Z,"[2024-12-16 21:00:15.000 UTC] [12346] user@db LOG: connection to server at ""localhost"", port 5432 established",12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,[2024-12-16 21:00:20.000 UTC] [12346] user@db LOG: statement: SELECT * FROM products WHERE id = 98765,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:25.000Z,[2024-12-16 21:00:25.000 UTC] [12346] user@db LOG: duration: 0.007 ms,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:30.000Z,"[2024-12-16 21:00:30.000 UTC] [12347] user@db LOG: connection to server at ""localhost"", port 5432 established",12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,[2024-12-16 21:00:35.000 UTC] [12347] user@db LOG: statement: SELECT * FROM orders WHERE id = 12345678,12347,1236,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:40.000Z,[2024-12-16 21:00:40.000 UTC] [12347] user@db LOG: duration: 0.008 ms,12347,1236,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:45.000Z,"[2024-12-16 21:00:45.000 UTC] [12348] user@db LOG: connection to server at ""localhost"", port 5432 established",12348,1237,user,1234567893,1234567893,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,[2024-12-16 21:00:50.000 UTC] [12348] user@db LOG: statement: SELECT * FROM customers WHERE id = 9876543,12348,1237,user,1234567893,1234567893,null,null,DEBUG
+user-db,2024-12-16T21:00:55.000Z,[2024-12-16 21:00:55.000 UTC] [12348] user@db LOG: duration: 0.009 ms,12348,1237,user,1234567893,1234567893,null,null,DEBUG
+user-db,2024-12-16T21:01:00.000Z,"[2024-12-16 21:01:00.000 UTC] [12349] user@db LOG: connection to server at ""localhost"", port 5432 established",12349,1238,user,1234567894,1234567894,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,LOG: duration: 10.123 ms  statement: SELECT * FROM users WHERE id = 123,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,LOG: duration: 5.678 ms  statement: UPDATE users SET name = 'John Doe' WHERE id = 123,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,LOG: duration: 23.456 ms  statement: SELECT * FROM orders WHERE user_id = 123,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,"LOG: duration: 1.234 ms  statement: INSERT INTO payments (order_id, amount) VALUES (456, 100.00)",12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,LOG: duration: 7.890 ms  statement: SELECT * FROM products WHERE id = 789,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,LOG: duration: 15.678 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 789,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,LOG: duration: 2.345 ms  statement: COMMIT,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,LOG: duration: 18.901 ms  statement: SELECT * FROM users WHERE id = 456,54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,LOG: duration: 9.012 ms  statement: UPDATE users SET email = 'jane.doe@example.com' WHERE id = 456,54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,LOG: duration: 31.234 ms  statement: SELECT * FROM orders WHERE user_id = 456,54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,"LOG: duration: 4.567 ms  statement: INSERT INTO payments (order_id, amount) VALUES (789, 50.00)",54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,LOG: duration: 12.345 ms  statement: SELECT * FROM products WHERE id = 123,54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,LOG: duration: 20.678 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 123,54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,LOG: duration: 3.456 ms  statement: COMMIT,54321,98765,user456,def789,ghi123,null,null,INFO
+user-db,2024-12-16T21:01:10.000Z,LOG: duration: 25.789 ms  statement: SELECT * FROM users WHERE id = 789,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:01:15.000Z,LOG: duration: 11.234 ms  statement: UPDATE users SET name = 'Alice Smith' WHERE id = 789,12345,67890,user123,abc123,def456,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum connections: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum connections: 20,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,2024-12-16 21:00:20.000 UTC [12345] user@db INFO:  HikariPool-1 - Idle timeout: 600000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,2024-12-16 21:00:25.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum lifetime: 1800000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,2024-12-16 21:00:30.000 UTC [12345] user@db INFO:  HikariPool-1 - Pool name: HikariPool-1,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,2024-12-16 21:00:35.000 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,2024-12-16 21:00:40.000 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,2024-12-16 21:00:45.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 1,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,2024-12-16 21:00:50.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 2,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,2024-12-16 21:00:55.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 3,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,2024-12-16 21:01:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 4,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,2024-12-16 21:01:05.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 5,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:10.000Z,2024-12-16 21:01:10.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 6,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00Z,"HikariPool-1 - Connection is not available, request timed out after 30002ms.",12345,67890,user123,abc123,def456,HikariCP-00001,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+user-service,2024-12-16T21:00:05Z,Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,23456,78901,user456,bcd234,ghi789,Spring-00001,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+auth-service,2024-12-16T21:00:10Z,Authentication failed: could not extract user details from database; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,34567,89012,user789,cde345,jkl012,Spring-00002,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+payment-service,2024-12-16T21:00:15Z,Error processing payment for order 1234567890: org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,45678,90123,user012,def456,mno345,Spring-00003,org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,ERROR
+user-db,2024-12-16T21:00:20Z,Connection to localhost:5432 refused.,56789,01234,user345,efg567,pqr678,PostgreSQL-00001,org.postgresql.util.PSQLException: Connection to localhost:5432 refused.,ERROR
+user-service,2024-12-16T21:00:25Z,Transaction rolled back due to connection timeout.,67890,12345,user678,fgh678,stu901,Spring-00004,org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.JDBCConnectionException: Could not open connection,ERROR
+auth-service,2024-12-16T21:00:30Z,Failed to acquire connection.,78901,23456,user901,ghi789,tuv012,Spring-00005,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+payment-service,2024-12-16T21:00:35Z,Connection pool exhausted.,89012,34567,user234,hij890,uvw234,HikariCP-00002,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+user-db,2024-12-16T21:00:40Z,"FATAL: too many connections for role ""user"".",90123,45678,user567,ijk901,vwx345,PostgreSQL-00002,"org.postgresql.util.PSQLException: FATAL: too many connections for role ""user""",ERROR
+user-service,2024-12-16T21:00:45Z,Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,01234,56789,user890,klm012,wxy456,Spring-00001,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+auth-service,2024-12-16T21:00:50Z,Authentication failed: could not extract user details from database; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,12345,67890,user123,mno123,xyz567,Spring-00002,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+payment-service,2024-12-16T21:00:55Z,Error processing payment for order 1234567890: org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,23456,78901,user456,nop234,yza678,Spring-00003,org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,ERROR
+user-db,2024-12-16T21:01:00Z,"HikariPool-1 - Connection is not available, request timed out after 30002ms.",34567,89012,user789,pqr345,abc789,HikariCP-00001,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+user-db,2024-12-16T21:00:00.000Z,"HikariPool-1 - Connection is not available, request timed out after 30002ms.",12345,67890,user123,abc123,def456,HikariCP-00001,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+user-db,2024-12-16T21:00:05.000Z,Connection to localhost:5432 refused.,12346,67891,user456,def456,ghi789,PostgreSQL-00002,org.postgresql.util.PSQLException: Connection to localhost:5432 refused.,ERROR
+user-db,2024-12-16T21:00:10.000Z,"FATAL: too many connections for role ""user"".",12347,67892,user789,ghi789,jkl012,PostgreSQL-00003,"org.postgresql.util.PSQLException: FATAL: too many connections for role ""user"".",FATAL
+user-service,2024-12-16T21:00:15.000Z,Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,12348,67893,user123,abc123,def456,Spring-00004,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+user-service,2024-12-16T21:00:20.000Z,Transaction rolled back due to connection timeout.,12349,67894,user456,def456,ghi789,Spring-00005,org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.JDBCConnectionException: Could not open connection,ERROR
+user-service,2024-12-16T21:00:25.000Z,Failed to acquire connection.,12350,67895,user789,ghi789,jkl012,Spring-00006,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+auth-service,2024-12-16T21:00:30.000Z,Authentication failed: could not extract user details from database; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,12351,67896,user123,abc123,def456,Spring-00007,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,WARN
+auth-service,2024-12-16T21:00:35.000Z,Connection pool exhausted.,12352,67897,user456,def456,ghi789,HikariCP-00008,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+auth-service,2024-12-16T21:00:40.000Z,Failed to authenticate user due to database connection issues.,12353,67898,user789,ghi789,jkl012,Auth-00009,org.springframework.security.authentication.InternalAuthenticationServiceException: Failed to authenticate user,ERROR
+payment-service,2024-12-16T21:00:45.000Z,Error processing payment for order 1234567890: org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,12354,67899,user123,abc123,def456,Spring-00010,org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,ERROR
+payment-service,2024-12-16T21:00:50.000Z,Payment processing failed due to database connection issues.,12355,67900,user456,def456,ghi789,Payment-00011,org.springframework.transaction.CannotCreateTransactionException: Could not open Hibernate Session for transaction; nested exception is org.hibernate.exception.JDBCConnectionException: Could not open connection,ERROR
+payment-service,2024-12-16T21:00:55.000Z,Transaction failed due to database connection timeout.,12356,67901,user789,ghi789,jkl012,Payment-00012,org.springframework.transaction.TransactionTimedOutException: Executing an update resulted in: Lock wait timeout exceeded; try restarting transaction,ERROR
+user-db,2024-12-16T21:01:00.000Z,"HikariPool-1 - Connection is not available, request timed out after 30002ms.",12357,67902,user123,abc123,def456,HikariCP-00001,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 1,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 2,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 3,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 4,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 5,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 6,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 7,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 8,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size reached.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size reached.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO:  HikariPool-1 - Pool exhausted.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:20Z,"2024-12-16 21:00:20.000 UTC [12345] user@db ERROR:  HikariPool-1 - Connection is not available, request timed out after 30002ms.",12345,1234,user,null,null,null,null,ERROR
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO: HikariPool-1 - Starting...,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO: HikariPool-1 - Minimum pool size: 10,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:10Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO: HikariPool-1 - Maximum pool size: 20,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO: HikariPool-1 - Connection timeout: 30000 ms,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:20Z,2024-12-16 21:00:20.000 UTC [12345] user@db INFO: HikariPool-1 - Auto-commit: true,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:25Z,2024-12-16 21:00:25.000 UTC [12345] user@db INFO: HikariPool-1 - Initialization complete.,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:30Z,2024-12-16 21:00:30.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 1,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:35Z,2024-12-16 21:00:35.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 2,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:40Z,2024-12-16 21:00:40.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 3,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:45Z,2024-12-16 21:00:45.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 4,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:50Z,2024-12-16 21:00:50.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 5,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:55Z,2024-12-16 21:00:55.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 6,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:01:00Z,2024-12-16 21:01:00.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 7,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:01:05Z,2024-12-16 21:01:05.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 8,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db DEBUG: Connection acquired from HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:00.001Z,2024-12-16 21:00:00.001 UTC [12345] user@db DEBUG: Executing query: SELECT * FROM users WHERE username = 'johndoe',12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:00.002Z,2024-12-16 21:00:00.002 UTC [12345] user@db DEBUG: Query completed in 10ms,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:00.003Z,2024-12-16 21:00:00.003 UTC [12345] user@db DEBUG: Connection released to HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:00.004Z,2024-12-16 21:00:00.004 UTC [12346] user@db DEBUG: Connection acquired from HikariCP-1,12346,1234,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:00.005Z,2024-12-16 21:00:00.005 UTC [12346] user@db DEBUG: Executing query: SELECT * FROM orders WHERE user_id = 12345,12346,1234,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:00.006Z,2024-12-16 21:00:00.006 UTC [12346] user@db DEBUG: Query completed in 20ms,12346,1234,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:00.007Z,2024-12-16 21:00:00.007 UTC [12346] user@db DEBUG: Connection released to HikariCP-1,12346,1234,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:00.008Z,2024-12-16 21:00:00.008 UTC [12347] user@db DEBUG: Connection acquired from HikariCP-1,12347,1234,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:00.009Z,2024-12-16 21:00:00.009 UTC [12347] user@db DEBUG: Executing query: UPDATE users SET last_login = NOW() WHERE username = 'johndoe',12347,1234,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:00.010Z,2024-12-16 21:00:00.010 UTC [12347] user@db DEBUG: Query completed in 30ms,12347,1234,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:00.011Z,2024-12-16 21:00:00.011 UTC [12347] user@db DEBUG: Connection released to HikariCP-1,12347,1234,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:00.012Z,2024-12-16 21:00:00.012 UTC [12348] user@db DEBUG: Connection acquired from HikariCP-1,12348,1234,user,1234567893,1234567893,null,null,DEBUG
+user-db,2024-12-16T21:00:00Z,LOG: duration: 10.234 ms  statement: SELECT * FROM users WHERE id = 1,12345,1234,123456,abc123,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:05Z,LOG: duration: 12.567 ms  statement: UPDATE users SET name = 'John Doe' WHERE id = 1,12346,1234,123456,abc124,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:10Z,LOG: duration: 15.890 ms  statement: SELECT * FROM orders WHERE user_id = 123456,12347,1234,123456,abc125,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:15Z,"LOG: duration: 20.123 ms  statement: INSERT INTO payments (order_id, amount) VALUES (123456789, 100.00)",12348,1234,123456,abc126,1234567893,null,null,INFO
+user-db,2024-12-16T21:00:20Z,LOG: duration: 25.356 ms  statement: SELECT * FROM products WHERE id = 1234567,12349,1234,123456,abc127,1234567894,null,null,INFO
+user-db,2024-12-16T21:00:25Z,LOG: duration: 30.589 ms  statement: UPDATE users SET email = 'johndoe@example.com' WHERE id = 1,12350,1234,123456,abc128,1234567895,null,null,INFO
+user-db,2024-12-16T21:00:30Z,LOG: duration: 35.812 ms  statement: SELECT * FROM orders WHERE user_id = 123456,12351,1234,123456,abc129,1234567896,null,null,INFO
+user-db,2024-12-16T21:00:35Z,"LOG: duration: 41.035 ms  statement: INSERT INTO payments (order_id, amount) VALUES (123456789, 50.00)",12352,1234,123456,abc130,1234567897,null,null,INFO
+user-db,2024-12-16T21:00:40Z,LOG: duration: 46.258 ms  statement: SELECT * FROM products WHERE id = 1234568,12353,1234,123456,abc131,1234567898,null,null,INFO
+user-db,2024-12-16T21:00:45Z,LOG: duration: 51.481 ms  statement: UPDATE users SET email = 'janedoe@example.com' WHERE id = 2,12354,1234,123457,abc132,1234567899,null,null,INFO
+user-db,2024-12-16T21:00:50Z,LOG: duration: 56.704 ms  statement: SELECT * FROM orders WHERE user_id = 123457,12355,1234,123457,abc133,1234567900,null,null,INFO
+user-db,2024-12-16T21:00:55Z,"LOG: duration: 61.927 ms  statement: INSERT INTO payments (order_id, amount) VALUES (123456790, 75.00)",12356,1234,123457,abc134,1234567901,null,null,INFO
+user-db,2024-12-16T21:01:00Z,LOG: duration: 67.150 ms  statement: SELECT * FROM products WHERE id = 1234569,12357,1234,123457,abc135,1234567902,null,null,INFO
+user-db,2024-12-16T21:01:05Z,LOG: duration: 72.373 ms  statement: UPDATE users SET email = 'johndoe@example.com' WHERE id = 1,12358,1234,123456,abc136,1234567903,null,null,INFO
+user-db,2024-12-16T21:01:10Z,LOG: duration: 77.596 ms  statement: SELECT * FROM orders WHERE user_id = 123456,12359,1234,123456,abc137,1234567904,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,null,null,null,null,null,null,null,INFO
+user-service,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] started at [2024-12-16T21:00:00.000Z],null,null,null,null,null,null,null,INFO
+auth-service,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 [http-nio-8080-exec-5] INFO  o.s.s.a.d.DaoAuthenticationProvider - Authentication attempt for user [user123] started,null,null,null,null,null,null,null,INFO
+payment-service,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 [http-nio-8080-exec-8] INFO  c.e.p.s.PaymentService - Processing payment for order 1234567890,null,null,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum connections: 10,null,null,null,null,null,null,null,INFO
+user-service,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] completed at [2024-12-16T21:00:05.000Z] in 5ms,null,null,null,null,null,null,null,INFO
+auth-service,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 [http-nio-8080-exec-5] INFO  o.s.s.a.d.DaoAuthenticationProvider - Authentication attempt for user [user123] completed successfully,null,null,null,null,null,null,null,INFO
+payment-service,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 [http-nio-8080-exec-8] INFO  c.e.p.s.PaymentService - Payment for order 1234567890 processed successfully,null,null,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum connections: 20,null,null,null,null,null,null,null,INFO
+user-service,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] started at [2024-12-16T21:00:10.000Z],null,null,null,null,null,null,null,INFO
+auth-service,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 [http-nio-8080-exec-5] INFO  o.s.s.a.d.DaoAuthenticationProvider - Authentication attempt for user [user456] started,null,null,null,null,null,null,null,INFO
+payment-service,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 [http-nio-8080-exec-8] INFO  c.e.p.s.PaymentService - Processing payment for order 9876543210,null,null,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30 seconds,null,null,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,[2024-12-16 21:00:00.000 UTC] [12345] user@db INFO: HikariPool-1 - Starting...,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,[2024-12-16 21:00:05.000 UTC] [12345] user@db INFO: HikariPool-1 - Minimum connections: 10,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,[2024-12-16 21:00:10.000 UTC] [12345] user@db INFO: HikariPool-1 - Maximum connections: 20,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,[2024-12-16 21:00:15.000 UTC] [12345] user@db INFO: HikariPool-1 - Connection timeout: 30000 ms,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,[2024-12-16 21:00:20.000 UTC] [12345] user@db INFO: HikariPool-1 - Auto-commit: true,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,[2024-12-16 21:00:25.000 UTC] [12345] user@db INFO: HikariPool-1 - Initialization complete.,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,[2024-12-16 21:00:30.000 UTC] [12346] user@db INFO: HikariPool-1 - Acquired connection 1,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,[2024-12-16 21:00:35.000 UTC] [12347] user@db INFO: HikariPool-1 - Acquired connection 2,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,[2024-12-16 21:00:40.000 UTC] [12348] user@db INFO: HikariPool-1 - Acquired connection 3,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,[2024-12-16 21:00:45.000 UTC] [12349] user@db INFO: HikariPool-1 - Acquired connection 4,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,[2024-12-16 21:00:50.000 UTC] [12350] user@db INFO: HikariPool-1 - Acquired connection 5,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,[2024-12-16 21:00:55.000 UTC] [12351] user@db INFO: HikariPool-1 - Acquired connection 6,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,[2024-12-16 21:01:00.000 UTC] [12352] user@db INFO: HikariPool-1 - Acquired connection 7,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,[2024-12-16 21:01:05.000 UTC] [12353] user@db INFO: HikariPool-1 - Acquired connection 8,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:10.000Z,[2024-12-16 21:01:10.000 UTC] [12354] user@db INFO: HikariPool-1 - Acquired connection 9,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:15.000Z,[2024-12-16 21:01:15.000 UTC] [12355] user@db INFO: HikariPool-1 - Acquired connection 10,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO: Connection obtained from HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO: Executing query: SELECT * FROM users WHERE id = 12345,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO: Query completed in 5ms,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO: Connection released to HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,2024-12-16 21:00:20.000 UTC [12346] user@db INFO: Connection obtained from HikariCP-1,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,2024-12-16 21:00:25.000 UTC [12346] user@db INFO: Executing query: SELECT * FROM orders WHERE id = 123456,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,2024-12-16 21:00:30.000 UTC [12346] user@db INFO: Query completed in 5ms,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,2024-12-16 21:00:35.000 UTC [12346] user@db INFO: Connection released to HikariCP-1,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,2024-12-16 21:00:40.000 UTC [12347] user@db INFO: Connection obtained from HikariCP-1,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,2024-12-16 21:00:45.000 UTC [12347] user@db INFO: Executing query: SELECT * FROM products WHERE id = 123457,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,2024-12-16 21:00:50.000 UTC [12347] user@db INFO: Query completed in 5ms,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,2024-12-16 21:00:55.000 UTC [12347] user@db INFO: Connection released to HikariCP-1,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,2024-12-16 21:01:00.000 UTC [12348] user@db INFO: Connection obtained from HikariCP-1,12348,1237,user,1234567893,1234567893,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO: HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:01.000Z,2024-12-16 21:00:01.000 UTC [12346] user@db INFO: HikariPool-1 - Minimum pool size reached: 10,12346,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:02.000Z,2024-12-16 21:00:02.000 UTC [12347] user@db INFO: HikariPool-1 - Maximum pool size reached: 100,12347,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:03.000Z,2024-12-16 21:00:03.000 UTC [12348] user@db INFO: HikariPool-1 - Pool initialized with 100 connections,12348,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:04.000Z,2024-12-16 21:00:04.000 UTC [12349] user@db INFO: HikariPool-1 - Connection acquired: connection-1,12349,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12350] user@db INFO: HikariPool-1 - Connection acquired: connection-2,12350,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:06.000Z,2024-12-16 21:00:06.000 UTC [12351] user@db INFO: HikariPool-1 - Connection acquired: connection-3,12351,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:07.000Z,2024-12-16 21:00:07.000 UTC [12352] user@db INFO: HikariPool-1 - Connection acquired: connection-4,12352,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:08.000Z,2024-12-16 21:00:08.000 UTC [12353] user@db INFO: HikariPool-1 - Connection acquired: connection-5,12353,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:09.000Z,2024-12-16 21:00:09.000 UTC [12354] user@db INFO: HikariPool-1 - Connection acquired: connection-6,12354,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12355] user@db INFO: HikariPool-1 - Connection acquired: connection-7,12355,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:11.000Z,2024-12-16 21:00:11.000 UTC [12356] user@db INFO: HikariPool-1 - Connection acquired: connection-8,12356,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:12.000Z,2024-12-16 21:00:12.000 UTC [12357] user@db INFO: HikariPool-1 - Connection acquired: connection-9,12357,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:13.000Z,2024-12-16 21:00:13.000 UTC [12358] user@db INFO: HikariPool-1 - Connection acquired: connection-10,12358,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:14.000Z,2024-12-16 21:00:14.000 UTC [12359] user@db INFO: HikariPool-1 - Connection acquired: connection-11,12359,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00Z,"2024-12-16 21:00:00.000 UTC [12345] user@db INFO: Connected to database server at ""localhost"", port 5432",12345,1234,user,null,null,null,null,INFO
+user-service,2024-12-16T21:00:01Z,2024-12-16 21:00:01.123 [http-nio-8080-exec-1] DEBUG o.a.c.c.C.[.[.[.[dispatcherServlet] - Received request for user profile with ID 12345,12345,1234,null,12345,null,null,null,DEBUG
+auth-service,2024-12-16T21:00:02Z,"{""event"":""user_login"",""user_id"":""12345"",""timestamp"":""2024-12-16T21:00:02Z"",""status"":""success""}",12345,1234,12345,null,null,null,null,INFO
+payment-service,2024-12-16T21:00:03Z,2024-12-16 21:00:03.345 [http-nio-8080-exec-8] INFO c.e.p.s.PaymentService - Processing payment for order 1234567890,12345,1234,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:04Z,"2024-12-16 21:00:04.567 UTC [12345] user@db INFO: Executed query ""SELECT * FROM users WHERE id = 12345""",12345,1234,user,null,null,null,null,INFO
+user-service,2024-12-16T21:00:05Z,2024-12-16 21:00:05.789 [http-nio-8080-exec-1] DEBUG o.a.c.c.C.[.[.[.[dispatcherServlet] - Returning user profile with ID 12345,12345,1234,null,12345,null,null,null,DEBUG
+auth-service,2024-12-16T21:00:06Z,"{""event"":""user_logout"",""user_id"":""12345"",""timestamp"":""2024-12-16T21:00:06Z"",""status"":""success""}",12345,1234,12345,null,null,null,null,INFO
+payment-service,2024-12-16T21:00:07Z,2024-12-16 21:00:07.901 [http-nio-8080-exec-8] INFO c.e.p.s.PaymentService - Payment for order 1234567890 processed successfully,12345,1234,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:08Z,2024-12-16 21:00:08.012 UTC [12345] user@db INFO: Connection released to pool,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:09Z,"2024-12-16 21:00:09.123 UTC [12346] user@db INFO: Connected to database server at ""localhost"", port 5432",12346,1235,user,null,null,null,null,INFO
+user-service,2024-12-16T21:00:10Z,2024-12-16 21:00:10.234 [http-nio-8080-exec-2] DEBUG o.a.c.c.C.[.[.[.[dispatcherServlet] - Received request for user profile with ID 67890,12346,1235,null,67890,null,null,null,DEBUG
+auth-service,2024-12-16T21:00:11Z,"{""event"":""user_login"",""user_id"":""67890"",""timestamp"":""2024-12-16T21:00:11Z"",""status"":""success""}",12346,1235,67890,null,null,null,null,INFO
+payment-service,2024-12-16T21:00:12Z,2024-12-16 21:00:12.345 [http-nio-8080-exec-9] INFO c.e.p.s.PaymentService - Processing payment for order 9876543210,12346,1235,null,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,"2024-12-16 21:00:00.000 UTC [12345] user@db INFO: Connected to database server at ""localhost"", port 5432",12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO: Executing query: SELECT * FROM users WHERE id = 12345,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO: Query completed successfully in 5ms,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO: Closing connection to database server,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,"2024-12-16 21:00:20.000 UTC [12346] user@db INFO: Connected to database server at ""localhost"", port 5432",12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,2024-12-16 21:00:25.000 UTC [12346] user@db INFO: Executing query: SELECT * FROM orders WHERE id = 123456,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,2024-12-16 21:00:30.000 UTC [12346] user@db INFO: Query completed successfully in 10ms,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,2024-12-16 21:00:35.000 UTC [12346] user@db INFO: Closing connection to database server,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,"2024-12-16 21:00:40.000 UTC [12347] user@db INFO: Connected to database server at ""localhost"", port 5432",12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,2024-12-16 21:00:45.000 UTC [12347] user@db INFO: Executing query: SELECT * FROM products WHERE id = 1234567,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,2024-12-16 21:00:50.000 UTC [12347] user@db INFO: Query completed successfully in 15ms,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,2024-12-16 21:00:55.000 UTC [12347] user@db INFO: Closing connection to database server,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,"2024-12-16 21:01:00.000 UTC [12348] user@db INFO: Connected to database server at ""localhost"", port 5432",12348,1237,user,1234567893,1234567893,null,null,INFO
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.123 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,12345,user,12345,12345,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db DEBUG: Connection acquired from HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:02.000Z,2024-12-16 21:00:02.000 UTC [12345] user@db INFO: Executing query: SELECT * FROM users WHERE id = 12345,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:03.000Z,2024-12-16 21:00:03.000 UTC [12345] user@db DEBUG: Connection released to HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12346] user@db DEBUG: Connection acquired from HikariCP-1,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:07.000Z,2024-12-16 21:00:07.000 UTC [12346] user@db INFO: Executing query: SELECT * FROM orders WHERE user_id = 12345,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:08.000Z,2024-12-16 21:00:08.000 UTC [12346] user@db DEBUG: Connection released to HikariCP-1,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12347] user@db DEBUG: Connection acquired from HikariCP-1,12347,1236,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:12.000Z,2024-12-16 21:00:12.000 UTC [12347] user@db INFO: Executing query: UPDATE users SET email = 'new_email@example.com' WHERE id = 12345,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:13.000Z,2024-12-16 21:00:13.000 UTC [12347] user@db DEBUG: Connection released to HikariCP-1,12347,1236,user,1234567892,1234567892,null,null,DEBUG
+user-db,2024-12-16T21:00:15.000Z,2024-12-16 21:00:15.000 UTC [12348] user@db DEBUG: Connection acquired from HikariCP-1,12348,1237,user,1234567893,1234567893,null,null,DEBUG
+user-db,2024-12-16T21:00:17.000Z,2024-12-16 21:00:17.000 UTC [12348] user@db INFO: Executing query: SELECT * FROM products WHERE category = 'electronics',12348,1237,user,1234567893,1234567893,null,null,INFO
+user-db,2024-12-16T21:00:18.000Z,2024-12-16 21:00:18.000 UTC [12348] user@db DEBUG: Connection released to HikariCP-1,12348,1237,user,1234567893,1234567893,null,null,DEBUG
+user-db,2024-12-16T21:00:20.000Z,2024-12-16 21:00:20.000 UTC [12349] user@db DEBUG: Connection acquired from HikariCP-1,12349,1238,user,1234567894,1234567894,null,null,DEBUG
+user-db,2024-12-16T21:00:00.000Z,LOG: duration: 12.34 ms  statement: SELECT * FROM users WHERE id = 123,12345,1234,123,abc123,tx123,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,LOG: duration: 56.78 ms  statement: UPDATE users SET name = 'John Doe' WHERE id = 123,12346,1234,123,abc124,tx124,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,LOG: duration: 34.56 ms  statement: SELECT * FROM orders WHERE user_id = 123,12347,1234,123,abc125,tx125,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,"LOG: duration: 98.76 ms  statement: INSERT INTO payments (order_id, amount) VALUES (123456, 100.00)",12348,1234,123,abc126,tx126,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,LOG: duration: 23.45 ms  statement: SELECT * FROM products WHERE id = 789,12349,1234,123,abc127,tx127,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,LOG: duration: 10.12 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 789,12350,1234,123,abc128,tx128,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,LOG: duration: 45.67 ms  statement: COMMIT,12351,1234,123,abc129,tx129,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,LOG: duration: 11.23 ms  statement: SELECT * FROM users WHERE id = 456,12352,1234,456,abc130,tx130,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,LOG: duration: 56.78 ms  statement: UPDATE users SET name = 'Jane Doe' WHERE id = 456,12353,1234,456,abc131,tx131,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,LOG: duration: 34.56 ms  statement: SELECT * FROM orders WHERE user_id = 456,12354,1234,456,abc132,tx132,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,"LOG: duration: 98.76 ms  statement: INSERT INTO payments (order_id, amount) VALUES (789012, 50.00)",12355,1234,456,abc133,tx133,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,LOG: duration: 23.45 ms  statement: SELECT * FROM products WHERE id = 345,12356,1234,456,abc134,tx134,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,LOG: duration: 10.12 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 345,12357,1234,456,abc135,tx135,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,LOG: duration: 45.67 ms  statement: COMMIT,12358,1234,456,abc136,tx136,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.001Z,2024-12-16 21:00:00.001 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.002Z,2024-12-16 21:00:00.002 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 100,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.003Z,2024-12-16 21:00:00.003 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.004Z,2024-12-16 21:00:00.004 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.005Z,2024-12-16 21:00:00.005 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.006Z,2024-12-16 21:00:00.006 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.007Z,2024-12-16 21:00:00.007 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.008Z,2024-12-16 21:00:00.008 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 100,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.009Z,2024-12-16 21:00:00.009 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.010Z,2024-12-16 21:00:00.010 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.011Z,2024-12-16 21:00:00.011 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.012Z,2024-12-16 21:00:00.012 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.013Z,2024-12-16 21:00:00.013 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.014Z,2024-12-16 21:00:00.014 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 100,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.015Z,2024-12-16 21:00:00.015 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,null,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.123 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.456 UTC [12345] user@db INFO:  HikariPool-1 - Minimum connections: 10,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10Z,2024-12-16 21:00:10.789 UTC [12345] user@db INFO:  HikariPool-1 - Maximum connections: 20,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.123 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30 seconds,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:20Z,2024-12-16 21:00:20.456 UTC [12345] user@db INFO:  HikariPool-1 - Idle timeout: 60 seconds,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:25Z,2024-12-16 21:00:25.789 UTC [12345] user@db INFO:  HikariPool-1 - Maximum lifetime: 30 minutes,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:30Z,2024-12-16 21:00:30.123 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:35Z,2024-12-16 21:00:35.456 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:40Z,2024-12-16 21:00:40.789 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 1,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:45Z,2024-12-16 21:00:45.123 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 2,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:50Z,2024-12-16 21:00:50.456 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 3,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:55Z,2024-12-16 21:00:55.789 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 4,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:00Z,2024-12-16 21:01:00.123 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 5,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:05Z,2024-12-16 21:01:05.456 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 6,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:10Z,2024-12-16 21:01:10.789 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 7,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:15Z,2024-12-16 21:01:15.123 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 8,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00Z,"2024-12-16 21:00:00.000 UTC [12345] user@db INFO: Connected to database server at ""localhost"", port 5432",12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO: Started transaction 1234567890,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:10Z,"2024-12-16 21:00:10.000 UTC [12345] user@db INFO: Executed query ""SELECT * FROM users WHERE id = 12345""",12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO: Committed transaction 1234567890,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:20Z,"2024-12-16 21:00:20.000 UTC [12346] user@db INFO: Connected to database server at ""localhost"", port 5432",12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:25Z,2024-12-16 21:00:25.000 UTC [12346] user@db INFO: Started transaction 1234567891,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:30Z,"2024-12-16 21:00:30.000 UTC [12346] user@db INFO: Executed query ""SELECT * FROM products WHERE id = 12345""",12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:35Z,2024-12-16 21:00:35.000 UTC [12346] user@db INFO: Committed transaction 1234567891,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:40Z,"2024-12-16 21:00:40.000 UTC [12347] user@db INFO: Connected to database server at ""localhost"", port 5432",12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:45Z,2024-12-16 21:00:45.000 UTC [12347] user@db INFO: Started transaction 1234567892,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:50Z,"2024-12-16 21:00:50.000 UTC [12347] user@db INFO: Executed query ""SELECT * FROM orders WHERE id = 12345""",12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:55Z,2024-12-16 21:00:55.000 UTC [12347] user@db INFO: Committed transaction 1234567892,12347,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:01:00Z,"2024-12-16 21:01:00.000 UTC [12348] user@db INFO: Connected to database server at ""localhost"", port 5432",12348,1237,user,1234567893,1234567893,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,LOG: duration: 12.34 ms  statement: SELECT * FROM users WHERE id = 123,12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,LOG: duration: 56.78 ms  statement: UPDATE users SET name = 'John Doe' WHERE id = 123,12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,LOG: duration: 34.56 ms  statement: SELECT * FROM orders WHERE user_id = 123,12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,"LOG: duration: 102.34 ms  statement: INSERT INTO payments (order_id, amount) VALUES (12345, 100.00)",12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,LOG: duration: 23.45 ms  statement: SELECT * FROM products WHERE id = 123,12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,LOG: duration: 15.67 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 123,12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,LOG: duration: 45.67 ms  statement: COMMIT,12345,1234,user123,req-12345,tx-12345,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,LOG: duration: 12.34 ms  statement: SELECT * FROM users WHERE id = 456,12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,LOG: duration: 56.78 ms  statement: UPDATE users SET name = 'Jane Doe' WHERE id = 456,12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,LOG: duration: 34.56 ms  statement: SELECT * FROM orders WHERE user_id = 456,12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,"LOG: duration: 102.34 ms  statement: INSERT INTO payments (order_id, amount) VALUES (45678, 50.00)",12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,LOG: duration: 23.45 ms  statement: SELECT * FROM products WHERE id = 456,12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,LOG: duration: 15.67 ms  statement: UPDATE products SET stock = stock - 1 WHERE id = 456,12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,LOG: duration: 45.67 ms  statement: COMMIT,12345,1234,user456,req-45678,tx-45678,null,null,INFO
+user-db,2024-12-16T21:01:10.000Z,LOG: duration: 12.34 ms  statement: SELECT * FROM users WHERE id = 789,12345,1234,user789,req-78901,tx-78901,null,null,INFO
+user-db,2024-12-16T21:01:15.000Z,LOG: duration: 56.78 ms  statement: UPDATE users SET name = 'John Smith' WHERE id = 789,12345,1234,user789,req-78901,tx-78901,null,null,INFO
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.000 UTC [12345] user@db DEBUG: Connection acquired from HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO: Executing query: SELECT * FROM users WHERE id = 12345,12345,1234,user,1234567890,1234567890,null,null,INFO
+user-db,2024-12-16T21:00:10Z,2024-12-16 21:00:10.000 UTC [12345] user@db DEBUG: Query completed in 5ms,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.000 UTC [12345] user@db DEBUG: Connection released to HikariCP-1,12345,1234,user,1234567890,1234567890,null,null,DEBUG
+user-service,2024-12-16T21:00:20Z,2024-12-16 21:00:20.000 UTC [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Received request for user with ID 12345,http-nio-8080-exec-1,1234,user,1234567890,1234567890,null,null,INFO
+user-service,2024-12-16T21:00:25Z,2024-12-16 21:00:25.000 UTC [http-nio-8080-exec-1] DEBUG o.a.c.c.C.[.[.[.[dispatcherServlet] - Fetching user data from database,http-nio-8080-exec-1,1234,user,1234567890,1234567890,null,null,DEBUG
+user-db,2024-12-16T21:00:30Z,2024-12-16 21:00:30.000 UTC [12346] user@db DEBUG: Connection acquired from HikariCP-1,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:35Z,2024-12-16 21:00:35.000 UTC [12346] user@db INFO: Executing query: SELECT * FROM orders WHERE user_id = 12345,12346,1235,user,1234567891,1234567891,null,null,INFO
+user-db,2024-12-16T21:00:40Z,2024-12-16 21:00:40.000 UTC [12346] user@db DEBUG: Query completed in 5ms,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-db,2024-12-16T21:00:45Z,2024-12-16 21:00:45.000 UTC [12346] user@db DEBUG: Connection released to HikariCP-1,12346,1235,user,1234567891,1234567891,null,null,DEBUG
+user-service,2024-12-16T21:00:50Z,2024-12-16 21:00:50.000 UTC [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Retrieved user data from database,http-nio-8080-exec-1,1234,user,1234567890,1234567890,null,null,INFO
+user-service,2024-12-16T21:00:55Z,2024-12-16 21:00:55.000 UTC [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Sending user data response,http-nio-8080-exec-1,1234,user,1234567890,1234567890,null,null,INFO
+user-service,2024-12-16T21:01:00Z,2024-12-16 21:01:00.000 UTC [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[.[dispatcherServlet] - Received request for user with ID 12346,http-nio-8080-exec-2,1236,user,1234567892,1234567892,null,null,INFO
+user-db,2024-12-16T21:00:00Z,"HikariPool-1 - Connection is not available, request timed out after 30002ms.",12345,67890,user123,abc123,def456,HikariCP-00001,"java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30002ms.",ERROR
+user-service,2024-12-16T21:00:05Z,Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,23456,90123,user456,def456,ghi789,Spring-00001,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+auth-service,2024-12-16T21:00:10Z,Authentication failed: could not extract user details from database; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,34567,12345,user789,ghi789,jkl012,Spring-00002,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+payment-service,2024-12-16T21:00:15Z,Error processing payment for order 1234567890: org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,45678,23456,user012,jkl012,mno345,Spring-00003,org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,ERROR
+user-db,2024-12-16T21:00:20Z,Connection to localhost:5432 refused.,56789,34567,user345,mno345,pqr678,PostgreSQL-00001,java.sql.SQLTransientConnectionException: Connection to localhost:5432 refused.,ERROR
+user-service,2024-12-16T21:00:25Z,Transaction rolled back due to connection timeout.,67890,45678,user678,pqr678,stu901,Spring-00004,org.springframework.transaction.CannotCreateTransactionException: Could not open JDBC Connection for transaction; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+auth-service,2024-12-16T21:00:30Z,Failed to acquire connection.,78901,56789,user901,stu901,vwx123,Spring-00005,org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+payment-service,2024-12-16T21:00:35Z,Connection pool exhausted.,89012,67890,user234,vwx123,yza345,Spring-00006,org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+user-db,2024-12-16T21:00:40Z,"FATAL: too many connections for role ""user"".",90123,78901,user567,yza345,bcd567,PostgreSQL-00002,"org.postgresql.util.PSQLException: FATAL: too many connections for role ""user""",ERROR
+user-service,2024-12-16T21:00:45Z,Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,101234,89012,user890,bcd567,efg678,Spring-00001,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+auth-service,2024-12-16T21:00:50Z,Authentication failed: could not extract user details from database; nested exception is org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,112345,90123,user112,efg678,hij789,Spring-00002,org.springframework.dao.DataAccessResourceFailureException: could not extract ResultSet; nested exception is org.hibernate.exception.JDBCConnectionException: could not extract ResultSet,ERROR
+payment-service,2024-12-16T21:00:55Z,Error processing payment for order 1234567890: org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,123456,101234,user135,hij789,klm890,Spring-00003,org.springframework.dao.DataAccessResourceFailureException: could not execute statement; nested exception is org.hibernate.exception.JDBCConnectionException: could not execute statement,ERROR
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.123 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10Z,2024-12-16 21:00:10.246 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 20,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.369 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:20Z,2024-12-16 21:00:20.492 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:25Z,2024-12-16 21:00:25.615 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:30Z,2024-12-16 21:00:30.738 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 1,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:35Z,2024-12-16 21:00:35.861 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 2,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:40Z,2024-12-16 21:00:40.984 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 3,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:45Z,2024-12-16 21:00:45.107 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 4,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:50Z,2024-12-16 21:00:50.230 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 5,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:55Z,2024-12-16 21:00:55.353 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 6,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:00Z,2024-12-16 21:01:00.476 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 7,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:05Z,2024-12-16 21:01:05.599 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 8,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:10Z,2024-12-16 21:01:10.722 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 9,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:15Z,2024-12-16 21:01:15.845 UTC [12345] user@db INFO:  HikariPool-1 - Acquired connection 10,12345,null,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Connection timeout: 30000 ms,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Auto-commit: true,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Initialization complete.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size: 50,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO:  HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO:  HikariPool-1 - Minimum pool size reached,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO:  HikariPool-1 - Maximum pool size reached,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO:  HikariPool-1 - Pool exhausted,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO: HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.001Z,2024-12-16 21:00:00.001 UTC [12345] user@db INFO: HikariPool-1 - Minimum pool size: 10,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.002Z,2024-12-16 21:00:00.002 UTC [12345] user@db INFO: HikariPool-1 - Maximum pool size: 100,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.003Z,2024-12-16 21:00:00.003 UTC [12345] user@db INFO: HikariPool-1 - Connection timeout: 30000 ms,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.004Z,2024-12-16 21:00:00.004 UTC [12345] user@db INFO: HikariPool-1 - Auto-commit: true,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.005Z,2024-12-16 21:00:00.005 UTC [12345] user@db INFO: HikariPool-1 - Initialization complete.,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.006Z,2024-12-16 21:00:00.006 UTC [12345] user@db INFO: HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.007Z,2024-12-16 21:00:00.007 UTC [12345] user@db INFO: HikariPool-1 - Minimum pool size: 10,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.008Z,2024-12-16 21:00:00.008 UTC [12345] user@db INFO: HikariPool-1 - Maximum pool size: 100,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.009Z,2024-12-16 21:00:00.009 UTC [12345] user@db INFO: HikariPool-1 - Connection timeout: 30000 ms,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.010Z,2024-12-16 21:00:00.010 UTC [12345] user@db INFO: HikariPool-1 - Auto-commit: true,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.011Z,2024-12-16 21:00:00.011 UTC [12345] user@db INFO: HikariPool-1 - Initialization complete.,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.012Z,2024-12-16 21:00:00.012 UTC [12345] user@db INFO: HikariPool-1 - Starting...,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.013Z,2024-12-16 21:00:00.013 UTC [12345] user@db INFO: HikariPool-1 - Minimum pool size: 10,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.014Z,2024-12-16 21:00:00.014 UTC [12345] user@db INFO: HikariPool-1 - Maximum pool size: 100,12345,12345,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:00.000Z,2024-12-16 21:00:00.000 UTC [12345] user@db INFO: HikariPool-1 - Starting...,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:05.000Z,2024-12-16 21:00:05.000 UTC [12345] user@db INFO: HikariPool-1 - Minimum idle: 10,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:10.000Z,2024-12-16 21:00:10.000 UTC [12345] user@db INFO: HikariPool-1 - Maximum pool size: 20,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:15.000Z,2024-12-16 21:00:15.000 UTC [12345] user@db INFO: HikariPool-1 - Connection timeout: 30 seconds,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:20.000Z,2024-12-16 21:00:20.000 UTC [12345] user@db INFO: HikariPool-1 - Auto-commit: true,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:25.000Z,2024-12-16 21:00:25.000 UTC [12345] user@db INFO: HikariPool-1 - Initialization complete.,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:30.000Z,2024-12-16 21:00:30.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 1,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:35.000Z,2024-12-16 21:00:35.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 2,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:40.000Z,2024-12-16 21:00:40.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 3,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:45.000Z,2024-12-16 21:00:45.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 4,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:50.000Z,2024-12-16 21:00:50.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 5,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:00:55.000Z,2024-12-16 21:00:55.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 6,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:00.000Z,2024-12-16 21:01:00.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 7,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:05.000Z,2024-12-16 21:01:05.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 8,12345,1234,user,null,null,null,null,INFO
+user-db,2024-12-16T21:01:10.000Z,2024-12-16 21:01:10.000 UTC [12345] user@db INFO: HikariPool-1 - Acquired connection 9,12345,1234,user,null,null,null,null,INFO
